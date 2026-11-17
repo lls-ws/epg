@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261117">
+<channel id="AMCLatinAmerica.us@Brazil"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"/></channel>
+<channel id="AELatinAmerica.us@Brazil"><display-name>A&amp;E</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png"/></channel>
+<channel id="SonyChannel.br@SD"><display-name>Sony</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"/></channel>
+<channel id="StudioUniversalLatinAmerica.us@Brazil"><display-name>Studio Universal</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png"/></channel>
+<channel id="TelecinePremium.br@SD"><display-name>Telecine Premium</display-name><icon src="https://i.imgur.com/uVFgIr8.png"/></channel>
+<channel id="TelecineAction.br@SD"><display-name>Telecine Action</display-name><icon src="https://i.imgur.com/BHYWG0h.png"/></channel>
+<channel id="TelecineTouch.br@SD"><display-name>Telecine Touch</display-name><icon src="https://i.imgur.com/Nky0hRo.png"/></channel>
+<channel id="TelecineCult.br@SD"><display-name>Telecine Cult</display-name><icon src="https://i.imgur.com/6GuHXnr.png"/></channel>
+<programme start="20261117232000 +0000" stop="20261118001000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Massacre Familiar</title></programme>
+<programme start="20261118001000 +0000" stop="20261118010000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Massacre Familiar</title></programme>
+<programme start="20261118010000 +0000" stop="20261118015000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rashash</title></programme>
+<programme start="20261118015000 +0000" stop="20261118024000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Palavra de Assassino</title></programme>
+<programme start="20261118024000 +0000" stop="20261118033000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Massacre Familiar</title></programme>
+<programme start="20261118033000 +0000" stop="20261118042000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Massacre Familiar</title></programme>
+<programme start="20261118042000 +0000" stop="20261118051000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Em Nome da Justiça</title></programme>
+<programme start="20261118051000 +0000" stop="20261118055500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Casos Arquivados</title></programme>
+<programme start="20261118055500 +0000" stop="20261118064300 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">As Primeiras 48 Horas</title></programme>
+<programme start="20261118064300 +0000" stop="20261118073000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title></programme>
+<programme start="20261118073000 +0000" stop="20261118081700 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Repúblicas de Terror: Os Segredos Obscuros Das Fraternidades</title></programme>
+<programme start="20261118081700 +0000" stop="20261118084300 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Guerra No Trânsito</title></programme>
+<programme start="20261118084300 +0000" stop="20261118090000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rota: A Polícia de Elite</title></programme>
+<programme start="20261118090000 +0000" stop="20261118092500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Clientes Em Guerra</title></programme>
+<programme start="20261118092500 +0000" stop="20261118095000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Quem dá Mais?</title></programme>
+<programme start="20261118095000 +0000" stop="20261118101500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Quem dá Mais?</title></programme>
+<programme start="20261118101500 +0000" stop="20261118104000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Quem dá Mais?</title></programme>
+<programme start="20261118104000 +0000" stop="20261118110500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Quem dá Mais?</title></programme>
+<programme start="20261118110500 +0000" stop="20261118115000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Casos Arquivados</title></programme>
+<programme start="20261118115000 +0000" stop="20261118123500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">As Primeiras 48 Horas</title></programme>
+<programme start="20261118123500 +0000" stop="20261118132500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rashash</title></programme>
+<programme start="20261118132500 +0000" stop="20261118141500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Massacre Familiar</title></programme>
+<programme start="20261118141500 +0000" stop="20261118150500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Massacre Familiar</title></programme>
+<programme start="20261118150500 +0000" stop="20261118160000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Acumuladores Compulsivos</title></programme>
+<programme start="20261118160000 +0000" stop="20261118173000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Acumuladores Compulsivos</title></programme>
+<programme start="20261118173000 +0000" stop="20261118175500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261118175500 +0000" stop="20261118182000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261118182000 +0000" stop="20261118184500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261118184500 +0000" stop="20261118191000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261118191000 +0000" stop="20261118200000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rashash</title></programme>
+<programme start="20261118200000 +0000" stop="20261118205000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title></programme>
+<programme start="20261118205000 +0000" stop="20261118214000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Repúblicas de Terror: Os Segredos Obscuros Das Fraternidades</title></programme>
+<programme start="20261118214000 +0000" stop="20261118223000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Cidade Confidencial</title></programme>
+<programme start="20261118223000 +0000" stop="20261118232000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Me Diga Como Morri</title></programme>
+<programme start="20261118232000 +0000" stop="20261119001000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Condenadas À Morte</title></programme>
+<programme start="20261119001000 +0000" stop="20261119010000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Casos Arquivados: Mortes No Velho Oeste</title></programme>
+<programme start="20261119010000 +0000" stop="20261119020000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rashash</title></programme>
+<programme start="20261119020000 +0000" stop="20261119025000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Cidade Confidencial</title></programme>
+<programme start="20261119025000 +0000" stop="20261119034000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Me Diga Como Morri</title></programme>
+<programme start="20261119034000 +0000" stop="20261119043000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Condenadas À Morte</title></programme>
+<programme start="20261119043000 +0000" stop="20261119051800 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Casos Arquivados: Mortes No Velho Oeste</title></programme>
+<programme start="20261119051800 +0000" stop="20261119060600 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Casos Arquivados</title></programme>
+<programme start="20261119060600 +0000" stop="20261119065400 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">As Primeiras 48 Horas</title></programme>
+<programme start="20261119065400 +0000" stop="20261119074200 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Repúblicas de Terror: Os Segredos Obscuros Das Fraternidades</title></programme>
+<programme start="20261119074200 +0000" stop="20261119080700 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Guerra No Trânsito</title></programme>
+<programme start="20261119080700 +0000" stop="20261119083200 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Guerra No Trânsito</title></programme>
+<programme start="20261119083200 +0000" stop="20261119084500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rota: A Polícia de Elite</title></programme>
+<programme start="20261119084500 +0000" stop="20261119090000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rota: A Polícia de Elite</title></programme>
+<programme start="20261119090000 +0000" stop="20261119092300 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Clientes Em Guerra</title></programme>
+<programme start="20261119092300 +0000" stop="20261119094600 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Quem dá Mais?</title></programme>
+<programme start="20261119094600 +0000" stop="20261119100900 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Quem dá Mais?</title></programme>
+<programme start="20261119100900 +0000" stop="20261119103200 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Quem dá Mais?</title></programme>
+<programme start="20261119103200 +0000" stop="20261119105500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Quem dá Mais?</title></programme>
+<programme start="20261119105500 +0000" stop="20261119114300 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Casos Arquivados</title></programme>
+<programme start="20261119114300 +0000" stop="20261119123200 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">As Primeiras 48 Horas</title></programme>
+<programme start="20261119123200 +0000" stop="20261119132700 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rashash</title></programme>
+<programme start="20261119132700 +0000" stop="20261119141700 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Esquadrão de Homicídios: Nova Orleans</title></programme>
+<programme start="20261119141700 +0000" stop="20261119150700 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Acusado: Culpado Ou Inocente?</title></programme>
+<programme start="20261119150700 +0000" stop="20261119155700 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Acumuladores Compulsivos</title></programme>
+<programme start="20261119155700 +0000" stop="20261119172700 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Acumuladores Compulsivos</title></programme>
+<programme start="20261119172700 +0000" stop="20261119175200 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261119175200 +0000" stop="20261119181700 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261119181700 +0000" stop="20261119184200 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261119184200 +0000" stop="20261119190700 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261119190700 +0000" stop="20261119200700 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rashash</title></programme>
+<programme start="20261119200700 +0000" stop="20261119205700 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title></programme>
+<programme start="20261119205700 +0000" stop="20261119214700 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Repúblicas de Terror: Os Segredos Obscuros Das Fraternidades</title></programme>
+<programme start="20261119214700 +0000" stop="20261119220200 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rota: A Polícia de Elite</title></programme>
+<programme start="20261119220200 +0000" stop="20261119221500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rota: A Polícia de Elite</title></programme>
+<programme start="20261119221500 +0000" stop="20261119231000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Operação Policial</title></programme>
+<programme start="20261119231000 +0000" stop="20261120000500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Investigação Criminal</title></programme>
+<programme start="20261120000500 +0000" stop="20261120010000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Investigação Criminal</title></programme>
+<programme start="20261120010000 +0000" stop="20261120015000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rashash</title></programme>
+<programme start="20261120015000 +0000" stop="20261120020500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rota: A Polícia de Elite</title></programme>
+<programme start="20261120020500 +0000" stop="20261120021800 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rota: A Polícia de Elite</title></programme>
+<programme start="20261120021800 +0000" stop="20261120031300 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Operação Policial</title></programme>
+<programme start="20261120031300 +0000" stop="20261120040800 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Investigação Criminal</title></programme>
+<programme start="20261120040800 +0000" stop="20261120050300 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Investigação Criminal</title></programme>
+<programme start="20261120050300 +0000" stop="20261120055100 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Casos Arquivados</title></programme>
+<programme start="20261120055100 +0000" stop="20261120063900 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">As Primeiras 48 Horas</title></programme>
+<programme start="20261120063900 +0000" stop="20261120072700 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Repúblicas de Terror: Os Segredos Obscuros Das Fraternidades</title></programme>
+<programme start="20261120072700 +0000" stop="20261120075000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Guerra No Trânsito</title></programme>
+<programme start="20261120075000 +0000" stop="20261120081500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Guerra No Trânsito</title></programme>
+<programme start="20261120081500 +0000" stop="20261120084400 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Flagrantes: Câmeras De Segurança</title></programme>
+<programme start="20261120084400 +0000" stop="20261120090000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rota: A Polícia de Elite</title></programme>
+<programme start="20261120090000 +0000" stop="20261120092500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Clientes Em Guerra</title></programme>
+<programme start="20261120092500 +0000" stop="20261120095000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Quem dá Mais?</title></programme>
+<programme start="20261120095000 +0000" stop="20261120101500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Quem dá Mais?</title></programme>
+<programme start="20261120101500 +0000" stop="20261120104000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Quem dá Mais?</title></programme>
+<programme start="20261120104000 +0000" stop="20261120110500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Quem dá Mais?</title></programme>
+<programme start="20261120110500 +0000" stop="20261120115000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Casos Arquivados</title></programme>
+<programme start="20261120115000 +0000" stop="20261120123500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">As Primeiras 48 Horas</title></programme>
+<programme start="20261120123500 +0000" stop="20261120132500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rashash</title></programme>
+<programme start="20261120132500 +0000" stop="20261120141500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Esquadrão de Homicídios: Nova Orleans</title></programme>
+<programme start="20261120141500 +0000" stop="20261120150500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Acusado: Culpado Ou Inocente?</title></programme>
+<programme start="20261120150500 +0000" stop="20261120160000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Acumuladores Compulsivos</title></programme>
+<programme start="20261120160000 +0000" stop="20261120173000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Acumuladores Compulsivos</title></programme>
+<programme start="20261120173000 +0000" stop="20261120175500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261120175500 +0000" stop="20261120182000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261120182000 +0000" stop="20261120184500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261120184500 +0000" stop="20261120191000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261120191000 +0000" stop="20261120200000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Rashash</title></programme>
+<programme start="20261120200000 +0000" stop="20261120205000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title></programme>
+<programme start="20261120205000 +0000" stop="20261120214000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Repúblicas de Terror: Os Segredos Obscuros Das Fraternidades</title></programme>
+<programme start="20261120214000 +0000" stop="20261120220500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261120220500 +0000" stop="20261120223000 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261120223000 +0000" stop="20261120225500 +0000" channel="AELatinAmerica.us@Brazil"><title lang="pt">Polícia Em Ação</title></programme>
+<programme start="20261118010000 +0000" stop="20261118032000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Hulk</title></programme>
+<programme start="20261118032000 +0000" stop="20261118054500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">O Ataque</title></programme>
+<programme start="20261118054500 +0000" stop="20261118072000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Alfa</title></programme>
+<programme start="20261118072000 +0000" stop="20261118084500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Com as Próprias Mãos</title></programme>
+<programme start="20261118084500 +0000" stop="20261118091000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261118091000 +0000" stop="20261118093500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261118093500 +0000" stop="20261118100000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261118100000 +0000" stop="20261118103000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261118103000 +0000" stop="20261118110000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261118110000 +0000" stop="20261118113000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261118113000 +0000" stop="20261118120500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261118120500 +0000" stop="20261118133500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Isca</title></programme>
+<programme start="20261118133500 +0000" stop="20261118160500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Hulk</title></programme>
+<programme start="20261118160500 +0000" stop="20261118182500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">A Saga Crepúsculo: Lua Nova</title></programme>
+<programme start="20261118182500 +0000" stop="20261118203500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Caça-Fantasmas</title></programme>
+<programme start="20261118203500 +0000" stop="20261118223000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Destinos Opostos</title></programme>
+<programme start="20261118223000 +0000" stop="20261119010000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Hulk</title></programme>
+<programme start="20261119010000 +0000" stop="20261119031500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Hellboy 2 - O Exército Dourado</title></programme>
+<programme start="20261119031500 +0000" stop="20261119061500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Era Uma Vez em... Hollywood</title></programme>
+<programme start="20261119061500 +0000" stop="20261119082500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Sete Vidas</title></programme>
+<programme start="20261119082500 +0000" stop="20261119090000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261119090000 +0000" stop="20261119093000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261119093000 +0000" stop="20261119100000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261119100000 +0000" stop="20261119103000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261119103000 +0000" stop="20261119110000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261119110000 +0000" stop="20261119113500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261119113500 +0000" stop="20261119121000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261119121000 +0000" stop="20261119124500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261119124500 +0000" stop="20261119143000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Aqui</title></programme>
+<programme start="20261119143000 +0000" stop="20261119164000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Caça-Fantasmas</title></programme>
+<programme start="20261119164000 +0000" stop="20261119185000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Hellboy 2 - O Exército Dourado</title></programme>
+<programme start="20261119185000 +0000" stop="20261119204500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">MIB: Homens De Preto 3</title></programme>
+<programme start="20261119204500 +0000" stop="20261119225000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">É Tempo De Amoras</title></programme>
+<programme start="20261119225000 +0000" stop="20261120010000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Hellboy 2 - O Exército Dourado</title></programme>
+<programme start="20261120010000 +0000" stop="20261120030000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Bloodshot</title></programme>
+<programme start="20261120030000 +0000" stop="20261120044000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Jogos Mortais - O Final</title></programme>
+<programme start="20261120044000 +0000" stop="20261120064000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">O Livro de Eli</title></programme>
+<programme start="20261120064000 +0000" stop="20261120083500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Querido John</title></programme>
+<programme start="20261120083500 +0000" stop="20261120090000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261120090000 +0000" stop="20261120093000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261120093000 +0000" stop="20261120100000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261120100000 +0000" stop="20261120103000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261120103000 +0000" stop="20261120110000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261120110000 +0000" stop="20261120113000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261120113000 +0000" stop="20261120120000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261120120000 +0000" stop="20261120123000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261120123000 +0000" stop="20261120130000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261120130000 +0000" stop="20261120133000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261120133000 +0000" stop="20261120140000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Planet Action</title></programme>
+<programme start="20261120143000 +0000" stop="20261120164000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Sete Vidas</title></programme>
+<programme start="20261120164000 +0000" stop="20261120183500 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">MIB: Homens De Preto 3</title></programme>
+<programme start="20261120183500 +0000" stop="20261120202000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Legalmente Loira</title></programme>
+<programme start="20261120202000 +0000" stop="20261120230000 +0000" channel="AMCLatinAmerica.us@Brazil"><title lang="pt">Comer, Rezar, Amar</title></programme>
+<programme start="20261117233500 +0000" stop="20261118010000 +0000" channel="SonyChannel.br@SD"><title lang="pt">O Debate</title></programme>
+<programme start="20261118010000 +0000" stop="20261118020000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title></programme>
+<programme start="20261118020000 +0000" stop="20261118030000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Shaking The Bar</title></programme>
+<programme start="20261118030000 +0000" stop="20261118043000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Space Jam: O Jogo do Século</title></programme>
+<programme start="20261118043000 +0000" stop="20261118050000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261118050000 +0000" stop="20261118053000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261118053000 +0000" stop="20261118060000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261118060000 +0000" stop="20261118063000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261118063000 +0000" stop="20261118070000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261118070000 +0000" stop="20261118073000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261118073000 +0000" stop="20261118080000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261118080000 +0000" stop="20261118090000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Night Shift</title></programme>
+<programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Bettys Diagnose</title></programme>
+<programme start="20261118100000 +0000" stop="20261118110000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Bettys Diagnose</title></programme>
+<programme start="20261118110000 +0000" stop="20261118120000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Bettys Diagnose</title></programme>
+<programme start="20261118120000 +0000" stop="20261118123000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261118123000 +0000" stop="20261118130000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261118130000 +0000" stop="20261118133000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261118133000 +0000" stop="20261118140000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261118140000 +0000" stop="20261118143000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261118143000 +0000" stop="20261118150000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261118150000 +0000" stop="20261118153000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261118153000 +0000" stop="20261118160000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261118160000 +0000" stop="20261118173000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Space Jam: O Jogo do Século</title></programme>
+<programme start="20261118173000 +0000" stop="20261118180000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261118180000 +0000" stop="20261118183000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261118183000 +0000" stop="20261118190000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261118190000 +0000" stop="20261118193000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261118193000 +0000" stop="20261118213000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Golpe Baixo</title></programme>
+<programme start="20261118213000 +0000" stop="20261118230000 +0000" channel="SonyChannel.br@SD"><title lang="pt">João E Maria: Caçadores De Bruxas</title></programme>
+<programme start="20261118230000 +0000" stop="20261119011500 +0000" channel="SonyChannel.br@SD"><title lang="pt">Quarta de Cinema: Gigantes de Aço</title></programme>
+<programme start="20261119011500 +0000" stop="20261119031000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Quarta de Cinema: Sing 2</title></programme>
+<programme start="20261119031000 +0000" stop="20261119051500 +0000" channel="SonyChannel.br@SD"><title lang="pt">Liga da Justiça</title></programme>
+<programme start="20261119051500 +0000" stop="20261119054500 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261119054500 +0000" stop="20261119061500 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261119061500 +0000" stop="20261119064500 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261119064500 +0000" stop="20261119071000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261119071000 +0000" stop="20261119074000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261119074000 +0000" stop="20261119081000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261119081000 +0000" stop="20261119090000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Night Shift</title></programme>
+<programme start="20261119090000 +0000" stop="20261119095000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Bettys Diagnose</title></programme>
+<programme start="20261119095000 +0000" stop="20261119104000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Bettys Diagnose</title></programme>
+<programme start="20261119104000 +0000" stop="20261119111000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261119111000 +0000" stop="20261119114000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261119114000 +0000" stop="20261119121000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261119121000 +0000" stop="20261119124000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261119124000 +0000" stop="20261119131000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261119131000 +0000" stop="20261119134000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261119134000 +0000" stop="20261119141000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261119141000 +0000" stop="20261119144000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261119144000 +0000" stop="20261119171000 +0000" channel="SonyChannel.br@SD"><title lang="pt">007 - Operação Skyfall</title></programme>
+<programme start="20261119171000 +0000" stop="20261119174000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261119174000 +0000" stop="20261119181000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261119181000 +0000" stop="20261119184000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261119184000 +0000" stop="20261119204500 +0000" channel="SonyChannel.br@SD"><title lang="pt">Liga da Justiça</title></programme>
+<programme start="20261119204500 +0000" stop="20261119230000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Gigantes de Aço</title></programme>
+<programme start="20261119230000 +0000" stop="20261120012000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Quinta em Chamas: Gran Turismo - De Jogador a Corredor</title></programme>
+<programme start="20261120012000 +0000" stop="20261120030500 +0000" channel="SonyChannel.br@SD"><title lang="pt">Quinta em Chamas: M3gan</title></programme>
+<programme start="20261120030500 +0000" stop="20261120043500 +0000" channel="SonyChannel.br@SD"><title lang="pt">João E Maria: Caçadores De Bruxas</title></programme>
+<programme start="20261120043500 +0000" stop="20261120050500 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261120050500 +0000" stop="20261120053500 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261120053500 +0000" stop="20261120060500 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261120060500 +0000" stop="20261120063500 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261120063500 +0000" stop="20261120070500 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261120070500 +0000" stop="20261120073500 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261120073500 +0000" stop="20261120080500 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261120080500 +0000" stop="20261120090000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Night Shift</title></programme>
+<programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Bettys Diagnose</title></programme>
+<programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Bettys Diagnose</title></programme>
+<programme start="20261120110000 +0000" stop="20261120120000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title></programme>
+<programme start="20261120120000 +0000" stop="20261120123000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261120123000 +0000" stop="20261120130000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261120130000 +0000" stop="20261120133000 +0000" channel="SonyChannel.br@SD"><title lang="pt">The Nanny</title></programme>
+<programme start="20261120133000 +0000" stop="20261120135500 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261120135500 +0000" stop="20261120142000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261120142000 +0000" stop="20261120144500 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261120144500 +0000" stop="20261120151000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261120151000 +0000" stop="20261120164000 +0000" channel="SonyChannel.br@SD"><title lang="pt">MIB - Homens de Preto 2</title></programme>
+<programme start="20261120164000 +0000" stop="20261120171000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261120171000 +0000" stop="20261120174000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261120174000 +0000" stop="20261120181000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261120181000 +0000" stop="20261120184000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Eu, A Patroa e as Crianças</title></programme>
+<programme start="20261120184000 +0000" stop="20261120205500 +0000" channel="SonyChannel.br@SD"><title lang="pt">O Contador</title></programme>
+<programme start="20261120205500 +0000" stop="20261120224000 +0000" channel="SonyChannel.br@SD"><title lang="pt">Difícil de Matar</title></programme>
+<programme start="20261120224000 +0000" stop="20261121010000 +0000" channel="SonyChannel.br@SD"><title lang="pt">O Protetor</title></programme>
+<programme start="20261118000000 +0000" stop="20261118013000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Projeto Natal dos Sonhos</title></programme>
+<programme start="20261118013000 +0000" stop="20261118030000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Uma Viagem de Natal</title></programme>
+<programme start="20261118030000 +0000" stop="20261118043000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Natal Fora de Casa</title></programme>
+<programme start="20261118043000 +0000" stop="20261118060000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Natal em Viena</title></programme>
+<programme start="20261118060000 +0000" stop="20261118073000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Mrs. Miracle e a Alegria do Natal</title></programme>
+<programme start="20261118073000 +0000" stop="20261118092500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Brindando o Natal</title></programme>
+<programme start="20261118092500 +0000" stop="20261118110000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Natal Entre Irmãs: Na Cidade</title></programme>
+<programme start="20261118110000 +0000" stop="20261118123500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Um Natal para a Família</title></programme>
+<programme start="20261118123500 +0000" stop="20261118141000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Milagre em Belém, Pensilvânia</title></programme>
+<programme start="20261118141000 +0000" stop="20261118155000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Uma Jogada de Natal</title></programme>
+<programme start="20261118155000 +0000" stop="20261118172500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">O Tesouro de Natal</title></programme>
+<programme start="20261118172500 +0000" stop="20261118190000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">O Retiro de Natal</title></programme>
+<programme start="20261118190000 +0000" stop="20261118203000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Um Natal nas Estrelas</title></programme>
+<programme start="20261118203000 +0000" stop="20261118220000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Namorados do Natal Passado</title></programme>
+<programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Quem Vai Ficar Com Mário?</title></programme>
+<programme start="20261119000000 +0000" stop="20261119013000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Um Acordo de Natal: Salvando o Starlight</title></programme>
+<programme start="20261119013000 +0000" stop="20261119031500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">O Trem do Natal</title></programme>
+<programme start="20261119031500 +0000" stop="20261119045000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Um Conto de Natal</title></programme>
+<programme start="20261119045000 +0000" stop="20261119061500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Natal em Graceland: Em casa com Amor</title></programme>
+<programme start="20261119061500 +0000" stop="20261119074500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">O Dueto de Natal</title></programme>
+<programme start="20261119074500 +0000" stop="20261119081500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Hollywood On Set</title></programme>
+<programme start="20261119081500 +0000" stop="20261119092500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Hollywood On Set</title></programme>
+<programme start="20261119092500 +0000" stop="20261119095500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Hollywood On Set</title></programme>
+<programme start="20261119095500 +0000" stop="20261119112500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Um Natal no Castelo</title></programme>
+<programme start="20261119112500 +0000" stop="20261119130000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Um Natal Inesquecível</title></programme>
+<programme start="20261119130000 +0000" stop="20261119143500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Plantão de Natal</title></programme>
+<programme start="20261119143500 +0000" stop="20261119161000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">O Verdadeiro Sentido do Natal</title></programme>
+<programme start="20261119161000 +0000" stop="20261119174000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Estrada Para o Natal</title></programme>
+<programme start="20261119174000 +0000" stop="20261119191000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Um Doce Natal</title></programme>
+<programme start="20261119191000 +0000" stop="20261119204000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Biscoitos Do Natal</title></programme>
+<programme start="20261119204000 +0000" stop="20261119221000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Cartões de Natal</title></programme>
+<programme start="20261119221000 +0000" stop="20261120000000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Saudosa Maloca</title></programme>
+<programme start="20261120000000 +0000" stop="20261120013500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Uma Conexão Para o Natal</title></programme>
+<programme start="20261120013500 +0000" stop="20261120031000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Um Natal para Recomeçar</title></programme>
+<programme start="20261120031000 +0000" stop="20261120044500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Natal no Grand Ole Opry</title></programme>
+<programme start="20261120044500 +0000" stop="20261120061500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Natal Entre Vizinhos: Surpresa Inesperada</title></programme>
+<programme start="20261120061500 +0000" stop="20261120074500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Um Natal de Mudanças</title></programme>
+<programme start="20261120074500 +0000" stop="20261120081500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Hollywood On Set</title></programme>
+<programme start="20261120081500 +0000" stop="20261120090000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Hollywood On Set</title></programme>
+<programme start="20261120090000 +0000" stop="20261120093000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Hollywood On Set</title></programme>
+<programme start="20261120093000 +0000" stop="20261120100000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Hollywood On Set</title></programme>
+<programme start="20261120100000 +0000" stop="20261120113500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Natal no Salão de Beleza</title></programme>
+<programme start="20261120113500 +0000" stop="20261120130500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Projeto Natal dos Sonhos</title></programme>
+<programme start="20261120130500 +0000" stop="20261120144000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Próxima Parada: Natal</title></programme>
+<programme start="20261120144000 +0000" stop="20261120161000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">The Most Colorful Time of the Year</title></programme>
+<programme start="20261120161000 +0000" stop="20261120174500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">O Comitê de Natal</title></programme>
+<programme start="20261120174500 +0000" stop="20261120192000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Brindando o Natal</title></programme>
+<programme start="20261120192000 +0000" stop="20261120205000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Natal no Hotel Plaza</title></programme>
+<programme start="20261120205000 +0000" stop="20261120222500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Um Príncipe para o Natal</title></programme>
+<programme start="20261120222500 +0000" stop="20261121000000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="pt">Natal em Viena</title></programme>
+<programme start="20261117232000 +0000" stop="20261118010000 +0000" channel="TelecineAction.br@SD"><title lang="pt">O Coletivo</title></programme>
+<programme start="20261118010000 +0000" stop="20261118025000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Largo Winch: Preço do Dinheiro</title></programme>
+<programme start="20261118025000 +0000" stop="20261118043000 +0000" channel="TelecineAction.br@SD"><title lang="pt">A Chamada</title></programme>
+<programme start="20261118043000 +0000" stop="20261118061000 +0000" channel="TelecineAction.br@SD"><title lang="pt">A Sacada</title></programme>
+<programme start="20261118061000 +0000" stop="20261118074000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Altitude</title></programme>
+<programme start="20261118074000 +0000" stop="20261118093000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Agente das Sombras</title></programme>
+<programme start="20261118093000 +0000" stop="20261118111000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Sem Fôlego</title></programme>
+<programme start="20261118111000 +0000" stop="20261118132500 +0000" channel="TelecineAction.br@SD"><title lang="pt">Tubarão</title></programme>
+<programme start="20261118132500 +0000" stop="20261118150000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Distrito 666</title></programme>
+<programme start="20261118150000 +0000" stop="20261118170000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Quebrando Regras</title></programme>
+<programme start="20261118170000 +0000" stop="20261118185000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Missão Suicida</title></programme>
+<programme start="20261118185000 +0000" stop="20261118211500 +0000" channel="TelecineAction.br@SD"><title lang="pt">Velozes &amp; Furiosos: Hobbs &amp; Shaw</title></programme>
+<programme start="20261118211500 +0000" stop="20261118232500 +0000" channel="TelecineAction.br@SD"><title lang="pt">Dupla Explosiva</title></programme>
+<programme start="20261118232500 +0000" stop="20261119010000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Serial Kelly</title></programme>
+<programme start="20261119010000 +0000" stop="20261119025000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Arranha-Céu: Coragem Sem Limite</title></programme>
+<programme start="20261119025000 +0000" stop="20261119045500 +0000" channel="TelecineAction.br@SD"><title lang="pt">Queima de Arquivo</title></programme>
+<programme start="20261119045500 +0000" stop="20261119065000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Robin Hood: A Origem</title></programme>
+<programme start="20261119065000 +0000" stop="20261119084500 +0000" channel="TelecineAction.br@SD"><title lang="pt">A Queda (2022)</title></programme>
+<programme start="20261119084500 +0000" stop="20261119102000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Jogos Mortais V</title></programme>
+<programme start="20261119102000 +0000" stop="20261119120000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Armadilhas do Passado</title></programme>
+<programme start="20261119120000 +0000" stop="20261119134000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Perigo Na Montanha</title></programme>
+<programme start="20261119134000 +0000" stop="20261119152000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Memória de um Crime</title></programme>
+<programme start="20261119152000 +0000" stop="20261119173000 +0000" channel="TelecineAction.br@SD"><title lang="pt">A Batalha De Riddick</title></programme>
+<programme start="20261119173000 +0000" stop="20261119191500 +0000" channel="TelecineAction.br@SD"><title lang="pt">Largo Winch: Preço do Dinheiro</title></programme>
+<programme start="20261119191500 +0000" stop="20261119212000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Hellboy (2019)</title></programme>
+<programme start="20261119212000 +0000" stop="20261119230000 +0000" channel="TelecineAction.br@SD"><title lang="pt">A Sacada</title></programme>
+<programme start="20261119230000 +0000" stop="20261120010000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Noite Infeliz</title></programme>
+<programme start="20261120010000 +0000" stop="20261120024000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Caça Às Bruxas</title></programme>
+<programme start="20261120024000 +0000" stop="20261120043500 +0000" channel="TelecineAction.br@SD"><title lang="pt">A Força Em Alerta</title></programme>
+<programme start="20261120043500 +0000" stop="20261120064000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Os Mercenários 3</title></programme>
+<programme start="20261120064000 +0000" stop="20261120081000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Distrito 666</title></programme>
+<programme start="20261120081000 +0000" stop="20261120100000 +0000" channel="TelecineAction.br@SD"><title lang="pt">As Verdades</title></programme>
+<programme start="20261120100000 +0000" stop="20261120114000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Mate ou Morra</title></programme>
+<programme start="20261120114000 +0000" stop="20261120132000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Rota De Fuga 3 - O Resgate</title></programme>
+<programme start="20261120132000 +0000" stop="20261120150000 +0000" channel="TelecineAction.br@SD"><title lang="pt">Lacuna</title></programme>
+<programme start="20261120150000 +0000" stop="20261120164500 +0000" channel="TelecineAction.br@SD"><title lang="pt">Instinto Predador</title></programme>
+<programme start="20261120164500 +0000" stop="20261120184500 +0000" channel="TelecineAction.br@SD"><title lang="pt">Queima de Arquivo</title></programme>
+<programme start="20261120184500 +0000" stop="20261120205000 +0000" channel="TelecineAction.br@SD"><title lang="pt">O Homem Invisivel (2020)</title></programme>
+<programme start="20261120205000 +0000" stop="20261120224500 +0000" channel="TelecineAction.br@SD"><title lang="pt">Velozes E Furiosos (2001)</title></programme>
+<programme start="20261120224500 +0000" stop="20261121010000 +0000" channel="TelecineAction.br@SD"><title lang="pt">A Múmia (1999)</title></programme>
+<programme start="20261117230500 +0000" stop="20261118010000 +0000" channel="TelecineCult.br@SD"><title lang="pt">O Rei da Comédia</title></programme>
+<programme start="20261118010000 +0000" stop="20261118023000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Semana Da Excelência Preta: Rafiki</title></programme>
+<programme start="20261118023000 +0000" stop="20261118044000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Orgulho E Preconceito</title></programme>
+<programme start="20261118044000 +0000" stop="20261118064500 +0000" channel="TelecineCult.br@SD"><title lang="pt">Blade Runner: O Caçador de Androides</title></programme>
+<programme start="20261118064500 +0000" stop="20261118085000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Rastros de Ódio</title></programme>
+<programme start="20261118085000 +0000" stop="20261118112000 +0000" channel="TelecineCult.br@SD"><title lang="pt">A Face Oculta</title></programme>
+<programme start="20261118112000 +0000" stop="20261118131500 +0000" channel="TelecineCult.br@SD"><title lang="pt">Que Horas Ela Volta?</title></programme>
+<programme start="20261118131500 +0000" stop="20261118144500 +0000" channel="TelecineCult.br@SD"><title lang="pt">Não Amarás</title></programme>
+<programme start="20261118144500 +0000" stop="20261118165000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Inocência</title></programme>
+<programme start="20261118165000 +0000" stop="20261118183000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Os Cruéis</title></programme>
+<programme start="20261118183000 +0000" stop="20261118202500 +0000" channel="TelecineCult.br@SD"><title lang="pt">Maré Alta</title></programme>
+<programme start="20261118202500 +0000" stop="20261118225000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Megalópolis</title></programme>
+<programme start="20261118225000 +0000" stop="20261119010000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Sessão Cine Classic: O Grande Ditador</title></programme>
+<programme start="20261119010000 +0000" stop="20261119030000 +0000" channel="TelecineCult.br@SD"><title lang="pt">De Volta Para O Futuro Parte III</title></programme>
+<programme start="20261119030000 +0000" stop="20261119052000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Infiltrado Na Klan</title></programme>
+<programme start="20261119052000 +0000" stop="20261119072000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Paixão de Bravo</title></programme>
+<programme start="20261119072000 +0000" stop="20261119091500 +0000" channel="TelecineCult.br@SD"><title lang="pt">Fausto (1926)</title></programme>
+<programme start="20261119091500 +0000" stop="20261119104500 +0000" channel="TelecineCult.br@SD"><title lang="pt">Pequena Garota</title></programme>
+<programme start="20261119104500 +0000" stop="20261119121500 +0000" channel="TelecineCult.br@SD"><title lang="pt">Atirem no Pianista</title></programme>
+<programme start="20261119121500 +0000" stop="20261119142000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Rabiye Kurnaz vs. George W. Bush</title></programme>
+<programme start="20261119142000 +0000" stop="20261119160500 +0000" channel="TelecineCult.br@SD"><title lang="pt">A Viagem De Pedro</title></programme>
+<programme start="20261119160500 +0000" stop="20261119180000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Um Alguém Apaixonado</title></programme>
+<programme start="20261119180000 +0000" stop="20261119193000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Não Matarás</title></programme>
+<programme start="20261119193000 +0000" stop="20261119211500 +0000" channel="TelecineCult.br@SD"><title lang="pt">Corrente Do Mal</title></programme>
+<programme start="20261119211500 +0000" stop="20261119230500 +0000" channel="TelecineCult.br@SD"><title lang="pt">Tudo Sobre Minha Mãe</title></programme>
+<programme start="20261119230500 +0000" stop="20261120010000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Manas</title></programme>
+<programme start="20261120010000 +0000" stop="20261120025000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Perseguidor Implacável</title></programme>
+<programme start="20261120025000 +0000" stop="20261120044000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Um Estranho No Lago</title></programme>
+<programme start="20261120044000 +0000" stop="20261120063500 +0000" channel="TelecineCult.br@SD"><title lang="pt">O Rei da Comédia</title></programme>
+<programme start="20261120063500 +0000" stop="20261120082000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Perto de Você</title></programme>
+<programme start="20261120082000 +0000" stop="20261120101000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Quando A Mulher Se Atreve</title></programme>
+<programme start="20261120101000 +0000" stop="20261120115500 +0000" channel="TelecineCult.br@SD"><title lang="pt">Domicílio Conjugal</title></programme>
+<programme start="20261120115500 +0000" stop="20261120140500 +0000" channel="TelecineCult.br@SD"><title lang="pt">Adorável Vagabundo</title></programme>
+<programme start="20261120140500 +0000" stop="20261120160500 +0000" channel="TelecineCult.br@SD"><title lang="pt">De Volta Para O Futuro Parte III</title></programme>
+<programme start="20261120160500 +0000" stop="20261120174000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Acossado</title></programme>
+<programme start="20261120174000 +0000" stop="20261120200000 +0000" channel="TelecineCult.br@SD"><title lang="pt">O Último Metrô</title></programme>
+<programme start="20261120200000 +0000" stop="20261120220000 +0000" channel="TelecineCult.br@SD"><title lang="pt">Paixão de Bravo</title></programme>
+<programme start="20261120220000 +0000" stop="20261120234000 +0000" channel="TelecineCult.br@SD"><title lang="pt">O Diabo Riu por Último</title></programme>
+<programme start="20261117231000 +0000" stop="20261118010000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">O Silêncio da Vingança</title></programme>
+<programme start="20261118010000 +0000" stop="20261118024000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">A Noite dos Lobisomens</title></programme>
+<programme start="20261118024000 +0000" stop="20261118041500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Paralelos</title></programme>
+<programme start="20261118041500 +0000" stop="20261118054000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Trago Seu Amor</title></programme>
+<programme start="20261118054000 +0000" stop="20261118072000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">57 Segundos</title></programme>
+<programme start="20261118072000 +0000" stop="20261118092000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Malês</title></programme>
+<programme start="20261118092000 +0000" stop="20261118110000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Alice Júnior</title></programme>
+<programme start="20261118110000 +0000" stop="20261118131000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Emma</title></programme>
+<programme start="20261118131000 +0000" stop="20261118151000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Minha Irmã E Eu</title></programme>
+<programme start="20261118151000 +0000" stop="20261118170000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">A Rainha Guerreira</title></programme>
+<programme start="20261118170000 +0000" stop="20261118184500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Faster - No Limite da Velocidade</title></programme>
+<programme start="20261118184500 +0000" stop="20261118204500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Case Comigo</title></programme>
+<programme start="20261118204500 +0000" stop="20261118224500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Missão: Improvável</title></programme>
+<programme start="20261118224500 +0000" stop="20261119010000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">John Wick 3 - Parabellum</title></programme>
+<programme start="20261119010000 +0000" stop="20261119030000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">O Último Rodeio</title></programme>
+<programme start="20261119030000 +0000" stop="20261119044000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Depois do Apocalipse</title></programme>
+<programme start="20261119044000 +0000" stop="20261119065500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Enterre Seus Mortos</title></programme>
+<programme start="20261119065500 +0000" stop="20261119084500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Velvet Lounge: Noites de Caça</title></programme>
+<programme start="20261119084500 +0000" stop="20261119103000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Viva! A Babá Morreu</title></programme>
+<programme start="20261119103000 +0000" stop="20261119123000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Nós</title></programme>
+<programme start="20261119123000 +0000" stop="20261119142500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">D.P.A. 4 - O Fantástico Reino de Ondion</title></programme>
+<programme start="20261119142500 +0000" stop="20261119161500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">O Refém - Atentado em Madri</title></programme>
+<programme start="20261119161500 +0000" stop="20261119175000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Paralelos</title></programme>
+<programme start="20261119175000 +0000" stop="20261119193000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Legado Explosivo</title></programme>
+<programme start="20261119193000 +0000" stop="20261119213000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Anna – O Perigo Tem Nome</title></programme>
+<programme start="20261119213000 +0000" stop="20261119231500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Os Mercenários 4</title></programme>
+<programme start="20261119231500 +0000" stop="20261120005500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">A Fera do Pântano</title></programme>
+<programme start="20261120005500 +0000" stop="20261120010000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Preview No Premium</title></programme>
+<programme start="20261120010000 +0000" stop="20261120025500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">A Profissional</title></programme>
+<programme start="20261120025500 +0000" stop="20261120045000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">O Shaolin Do Sertão 2</title></programme>
+<programme start="20261120045000 +0000" stop="20261120064500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">O Amante De Júlia</title></programme>
+<programme start="20261120064500 +0000" stop="20261120082500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Desconhecidos</title></programme>
+<programme start="20261120082500 +0000" stop="20261120102000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Criadas</title></programme>
+<programme start="20261120102000 +0000" stop="20261120120500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">A Profecia da Lua</title></programme>
+<programme start="20261120120500 +0000" stop="20261120134500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Pinocchio: O Menino de Madeira</title></programme>
+<programme start="20261120134500 +0000" stop="20261120154500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Invasão Zumbi 2: Península</title></programme>
+<programme start="20261120154500 +0000" stop="20261120180500 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Semana Da Excelência Preta: Infiltrado Na Klan</title></programme>
+<programme start="20261120180500 +0000" stop="20261120205000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Semana Da Excelência Preta: Marighella</title></programme>
+<programme start="20261120205000 +0000" stop="20261120230000 +0000" channel="TelecinePremium.br@SD"><title lang="pt">Semana Da Excelência Preta: Mussum, O Filmis</title></programme>
+<programme start="20261117230000 +0000" stop="20261118010000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Águas Profundas</title></programme>
+<programme start="20261118010000 +0000" stop="20261118031000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Questão De Tempo</title></programme>
+<programme start="20261118031000 +0000" stop="20261118050000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Verão de 85</title></programme>
+<programme start="20261118050000 +0000" stop="20261118051500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Touch Curtas: Stone Heart</title></programme>
+<programme start="20261118051500 +0000" stop="20261118071500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">O Último Animal</title></programme>
+<programme start="20261118071500 +0000" stop="20261118093000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">As Viúvas</title></programme>
+<programme start="20261118093000 +0000" stop="20261118111500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Estamos Juntos</title></programme>
+<programme start="20261118111500 +0000" stop="20261118135000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">O Regresso</title></programme>
+<programme start="20261118135000 +0000" stop="20261118155000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Meninas Malvadas (2024)</title></programme>
+<programme start="20261118155000 +0000" stop="20261118174000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">As Apimentadas: Ainda Mais Apimentadas</title></programme>
+<programme start="20261118174000 +0000" stop="20261118191500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Entre Lençóis</title></programme>
+<programme start="20261118191500 +0000" stop="20261118211500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Crash - No Limite</title></programme>
+<programme start="20261118211500 +0000" stop="20261118212000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Preview No Touch</title></programme>
+<programme start="20261118212000 +0000" stop="20261118231500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Ainda Há Tempo</title></programme>
+<programme start="20261118231500 +0000" stop="20261119010000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">O Melhor Amigo</title></programme>
+<programme start="20261119010000 +0000" stop="20261119030000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Extraordinário</title></programme>
+<programme start="20261119030000 +0000" stop="20261119052500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Noé</title></programme>
+<programme start="20261119052500 +0000" stop="20261119070000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">O Palhaço</title></programme>
+<programme start="20261119070000 +0000" stop="20261119085000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Deus Não Está Morto: Uma Luz na Escuridão</title></programme>
+<programme start="20261119085000 +0000" stop="20261119110000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">O Espião Que Sabia Demais</title></programme>
+<programme start="20261119110000 +0000" stop="20261119130500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">O Pastor E O Guerrilheiro</title></programme>
+<programme start="20261119130500 +0000" stop="20261119145500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Mulheres ao Poder</title></programme>
+<programme start="20261119145500 +0000" stop="20261119165500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Águas Profundas</title></programme>
+<programme start="20261119165500 +0000" stop="20261119183000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">A Última Noite</title></programme>
+<programme start="20261119183000 +0000" stop="20261119203000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Jardim dos Desejos</title></programme>
+<programme start="20261119203000 +0000" stop="20261119225000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Bohemian Rhapsody</title></programme>
+<programme start="20261119225000 +0000" stop="20261120010000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Cidade; Campo</title></programme>
+<programme start="20261120010000 +0000" stop="20261120031000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Semana Da Excelência Preta: Viagem Das Garotas</title></programme>
+<programme start="20261120031000 +0000" stop="20261120051500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Marley &amp; Eu</title></programme>
+<programme start="20261120051500 +0000" stop="20261120072500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Questão De Tempo</title></programme>
+<programme start="20261120072500 +0000" stop="20261120090500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Avenida Beira-Mar</title></programme>
+<programme start="20261120090500 +0000" stop="20261120110500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Crash - No Limite</title></programme>
+<programme start="20261120110500 +0000" stop="20261120130000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Ainda Há Tempo</title></programme>
+<programme start="20261120130000 +0000" stop="20261120150500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Minha Fama De Mau</title></programme>
+<programme start="20261120150500 +0000" stop="20261120165500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Pixinguinha, Um Homem Carinhoso</title></programme>
+<programme start="20261120165500 +0000" stop="20261120183500 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Don Juan Demarco</title></programme>
+<programme start="20261120183500 +0000" stop="20261120210000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Noé</title></programme>
+<programme start="20261120210000 +0000" stop="20261120231000 +0000" channel="TelecineTouch.br@SD"><title lang="pt">Eduardo E Mônica</title></programme>
+</tv>
