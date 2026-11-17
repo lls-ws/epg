@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="claro.com.br" site_id="1_1618" lang="pt" xmltv_id="AMCLatinAmerica.us@Brazil">AMC</channel>
+  <channel site="claro.com.br" site_id="1_457" lang="pt" xmltv_id="AELatinAmerica.us@Brazil">A&amp;E</channel>
+  <channel site="claro.com.br" site_id="1_1500" lang="pt" xmltv_id="SonyChannel.br@SD">Sony</channel>
+  <channel site="claro.com.br" site_id="1_692" lang="pt" xmltv_id="StudioUniversalLatinAmerica.us@Brazil">Studio Universal</channel>
+  <channel site="claro.com.br" site_id="1_473" lang="pt" xmltv_id="TelecinePremium.br@SD">Telecine Premium</channel>
+  <channel site="claro.com.br" site_id="1_474" lang="pt" xmltv_id="TelecineAction.br@SD">Telecine Action</channel>
+  <channel site="claro.com.br" site_id="1_475" lang="pt" xmltv_id="TelecineTouch.br@SD">Telecine Touch</channel>
+  <channel site="claro.com.br" site_id="1_477" lang="pt" xmltv_id="TelecineCult.br@SD">Telecine Cult</channel>
+</channels>
