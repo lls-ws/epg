@@ -10,7 +10,12 @@
   <channel site="claro.com.br" site_id="1_475" lang="pt" xmltv_id="TelecineTouch.br@SD">Telecine Touch</channel>
   <channel site="claro.com.br" site_id="1_477" lang="pt" xmltv_id="TelecineCult.br@SD">Telecine Cult</channel>
   
-  <!-- Canais da Pluto TV (exemplo de estrutura) -->
+  <!-- Canais da Whale TV Plus -->
+  <channel site="watch.whaletvplus.com" site_id="979187723418476856" lang="pt" xmltv_id="">FreeTV Crime</channel>
+  <channel site="watch.whaletvplus.com" site_id="979187723418476855" lang="pt" xmltv_id="">FreeTV Drama (BR)</channel>
+  <channel site="watch.whaletvplus.com" site_id="942280082834594523" lang="pt" xmltv_id="">Sessão Trash</channel>
+  
+  <!-- Canais da Pluto TV -->
   <channel site="pluto.tv" site_id="61b790b985706b00072cb797" lang="pt" xmltv_id="AdrenalinaPuraTV.us@Brazil">Adrenalina Pura TV</channel>
   <channel site="pluto.tv" site_id="633dcebd80386500074a2461" lang="pt" xmltv_id="">Filmelier TV</channel>
   <channel site="pluto.tv" site_id="5f171d3442a0500007362f22" lang="pt" xmltv_id="FilmesSuspense.us@Brazil">Filmes Suspense</channel>
