@@ -1,4 +1,4 @@
-# [Fontes de EPG Utilizadas] (https://github.com/lls-ws/epg/tree/master/sites)
+# [Fontes de EPG Utilizadas](https://github.com/lls-ws/epg/tree/master/sites)
 
 * **Whale TV Plus (4 Canais)**
   * [watch.whaletvplus.com.channels.xml](https://github.com/lls-ws/epg/blob/master/sites/watch.whaletvplus.com/watch.whaletvplus.com.channels.xml)
