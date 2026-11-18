@@ -37,7 +37,7 @@ Lista dos 26 canais sem EPG
 • Redeitv (2 canais).
 	• Séries Classic
 	• TOP MIX TV CANAL 4 FILMES
-• SamsungTVPlus (6 canais).
+• SamsungTVPlus (5 canais).
 	• 2565 Sony One - Emoções (BR)
 	• 2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)
 	• 2697 Film Plus TV (BR)
