@@ -20,13 +20,16 @@ jobs:
       - name: Instalar dependências
         run: npm install
 
-      - name: Baixar programação e compactar em .gz
-        run: npm run grab --- --channels=meus-canais.xml --output=guide.xml --days=3 --maxConnections=5 --gzip
+            - name: Baixar programação e salvar log
+        run: |
+          mkdir -p lls
+          npm run grab --- --channels=meus-canais.xml --output=guide.xml --days=3 --maxConnections=5 --gzip | tee lls/ultimo-log.txt
 
-      - name: Publicar arquivo guide.xml.gz no repositório
+      - name: Publicar guide.xml.gz e log no repositório
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -f guide.xml.gz
-          git commit -m "Atualiza guide.xml.gz" || exit 0
+          git add lls/ultimo-log.txt
+          git commit -m "Atualiza guide.xml.gz e log de execução" || exit 0
           git push
