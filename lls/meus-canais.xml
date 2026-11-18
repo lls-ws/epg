@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <!-- 4 Canais via Whale TV Plus -->
-  <channel site="://whaletvplus.com" site_id="979187723418476860" lang="en" xmltv_id="AZClassicFlix.us@BR">a-z Classic Flix</channel>
-  <channel site="://whaletvplus.com" site_id="609411515976060398" lang="en" xmltv_id="Filmzie.us@BR">Filmzie</channel>
-  <channel site="://whaletvplus.com" site_id="643123131363958663" lang="en" xmltv_id="MovieMania.us@BR">Movie Mania (EN)</channel>
-  <channel site="://whaletvplus.com" site_id="1022125030546936778" lang="en" xmltv_id="ScifiWorld.us@BR">Scifi World</channel>
+  <channel site="watch.whaletvplus.com" site_id="979187723418476860" lang="en" xmltv_id="AZClassicFlix.us@BR">a-z Classic Flix</channel>
+  <channel site="watch.whaletvplus.com" site_id="609411515976060398" lang="en" xmltv_id="Filmzie.us@BR">Filmzie</channel>
+  <channel site="watch.whaletvplus.com" site_id="643123131363958663" lang="en" xmltv_id="MovieMania.us@BR">Movie Mania (EN)</channel>
+  <channel site="watch.whaletvplus.com" site_id="1022125030546936778" lang="en" xmltv_id="ScifiWorld.us@BR">Scifi World</channel>
 
   <!-- 10 Canais via Mi TV -->
   <channel site="mi.tv" site_id="br#a-e" lang="pt" xmltv_id="AELatinAmerica.us@Brazil">A&amp;E</channel>
