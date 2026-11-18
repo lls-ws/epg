@@ -2,9 +2,8 @@ name: Gerar e Publicar EPG
 
 on:
   schedule:
-    # Roda automaticamente todos os dias às 03:00 UTC (00:00 horário de Brasília)
     - cron: '0 3 * * *'
-  workflow_dispatch: # Permite rodar manualmente clicando em um botão
+  workflow_dispatch:
 
 jobs:
   build-epg:
@@ -21,13 +20,13 @@ jobs:
       - name: Instalar dependências
         run: npm install
 
-      - name: Baixar programação dos canais filtrados
-        run: npm run grab --- --channels=meus-canais.xml --output=guide.xml --days=3
+      - name: Baixar programação e compactar em .gz
+        run: npm run grab --- --channels=meus-canais.xml --output=guide.xml --days=3 --maxConnections=5 --gzip
 
-      - name: Publicar arquivo guide.xml no repositório
+      - name: Publicar arquivo guide.xml.gz no repositório
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add guide.xml
-          git commit -m "Atualiza guide.xml" || exit 0
+          git add -f guide.xml.gz
+          git commit -m "Atualiza guide.xml.gz" || exit 0
           git push
