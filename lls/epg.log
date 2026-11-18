@@ -1,16 +1,8 @@
-Mi.tv (10 Canais)
-https://github.com/lls-ws/epg/blob/master/sites/mi.tv/mi.tv_br.channels.xml
+Balanço final da sua lista agora
 
-Plex TV (14 Canais)
-https://github.com/lls-ws/epg/blob/master/sites/plex.tv/plex.tv_br.channels.xml
-
-Pluto TV (33 Canais)
-https://github.com/lls-ws/epg/blob/master/sites/pluto.tv/pluto.tv_br.channels.xml
-
-TOTAL CANAIS ATIVOS.: 91
-TOTAL CANAIS EPG....: 66
-========================
-TOTAL CANAIS SEM EPG: 25
+• Total de canais ativos: 91 canais publicados na LLS_TV.m3u.
+• Total com EPG ativo: 66 canais (61 no XML + 5 canais da IPTV-org que usam guia externo da própria fonte).
+• Total sem EPG: 25 canais (apenas os canais independentes de Movieark, Olhosnatv, Redeitv e os 6 sem guia público de LG/Samsung/TCL)
 
 Lista dos 25 canais sem EPG
 
