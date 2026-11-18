@@ -18,7 +18,7 @@ jobs:
           node-version: '20'
 
       - name: Instalar dependências
-        run: npm install
+        run: npm install --no-audit --no-fund --loglevel=error
 
       - name: Baixar programação e salvar log
         run: |
