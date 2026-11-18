@@ -7,10 +7,10 @@ https://github.com/lls-ws/epg/blob/master/sites/plex.tv/plex.tv_br.channels.xml
 Pluto TV (33 Canais)
 https://github.com/lls-ws/epg/blob/master/sites/pluto.tv/pluto.tv_br.channels.xml
 
-TOTAL CANAIS.: 93
-TOTAL EPG....: 57
-=================
-TOTAL SEM EPG: 37
+TOTAL CANAIS ATIVOS.: 92
+TOTAL CANAIS EPG....: 57
+========================
+TOTAL CANAIS SEM EPG: 35
 
 Lista dos 26 canais sem EPG
 
