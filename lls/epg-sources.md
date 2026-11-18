@@ -1,7 +1,7 @@
-# Fontes de EPG Utilizadas
+# [Fontes de EPG Utilizadas] (https://github.com/lls-ws/epg/tree/master/sites)
 
 * **Whale TV Plus (4 Canais)**
-  * https://github.com
+  * [watch.whaletvplus.com.channels.xml](https://github.com/lls-ws/epg/blob/master/sites/watch.whaletvplus.com/watch.whaletvplus.com.channels.xml)
 
 * **Mi.tv (10 Canais)**
   * [mi.tv_br.channels.xml](https://github.com/lls-ws/epg/blob/master/sites/mi.tv/mi.tv_br.channels.xml)
