@@ -20,10 +20,10 @@ jobs:
       - name: Instalar dependências
         run: npm install
 
-            - name: Baixar programação e salvar log
+      - name: Baixar programação e salvar log
         run: |
           mkdir -p lls
-          npm run grab --- --channels=meus-canais.xml --output=guide.xml --days=3 --maxConnections=5 --gzip | tee lls/ultimo-log.txt
+          npm run grab --- --channels=lls/meus-canais.xml --output=guide.xml --days=3 --maxConnections=5 --gzip | tee lls/ultimo-log.txt
 
       - name: Publicar guide.xml.gz e log no repositório
         run: |
