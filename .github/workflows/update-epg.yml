@@ -1,0 +1,39 @@
+name: Update and Publish EPG
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund --loglevel=error
+
+      - name: Grab EPG and save log
+        run: |
+          mkdir -p lls
+          npm run grab --- --channels=lls/channels.xml --output=guide.xml --days=3 --maxConnections=5 --gzip | tee lls/update-epg.log
+
+      - name: Publish guide.xml.gz and log
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -f guide.xml.gz
+          git add lls/update-epg.log
+          git commit -m "Update guide.xml.gz and execution log" || exit 0
+          git push
