@@ -18,7 +18,7 @@
   <channel site="mi.tv" site_id="br#telecine-touch" lang="pt" xmltv_id="TelecineTouch.br@SD">Telecine Touch</channel>
   <channel site="mi.tv" site_id="br#tnt" lang="pt" xmltv_id="TNTLatinAmerica.us@Brazil">TNT</channel>
 
-  <!-- 14 Canais via Plex TV -->
+  <!-- 14 Canais via Plex TV (https://github.com/lls-ws/epg/blob/master/sites/plex.tv/plex.tv_br.channels.xml) -->
   <channel site="plex.tv" site_id="6685ad945ffde3f71a3977d5" lang="pt" xmltv_id="CindieTV.br@BR">Cindie TV</channel>
   <channel site="plex.tv" site_id="6683faa4cd6f1d394094114b" lang="pt" xmltv_id="CinEspanto.br@BR">CinEspanto</channel>
   <channel site="plex.tv" site_id="65e9d0ad8fe4ef7053c3c86c" lang="pt" xmltv_id="FilmRiseSeriesGratuitas.br@BR">FilmRise Series Gratuitas</channel>
@@ -34,7 +34,7 @@
   <channel site="plex.tv" site_id="6864668119cc2e163e38d167" lang="pt" xmltv_id="SessaoTrash.br@BR">Sessão Trash</channel>
   <channel site="plex.tv" site_id="6623c114ed4918437ed56ebc" lang="pt" xmltv_id="SparkTVLuzyAmor.br@BR">Spark TV Luz y Amor</channel>
 
-  <!-- 33 Canais via Pluto TV -->
+  <!-- 33 Canais via Pluto TV (https://github.com/lls-ws/epg/blob/master/sites/pluto.tv/pluto.tv_br.channels.xml) -->
   <channel site="pluto.tv" site_id="61b790b985706b00072cb797" lang="pt" xmltv_id="AdrenalinaPuraTV.us@Brazil">Adrenalina Pura TV</channel>
   <channel site="pluto.tv" site_id="63eb9c5351f5d000085e8d7e" lang="pt" xmltv_id="CSIMiami.us@BR">CSI: Miami</channel>
   <channel site="pluto.tv" site_id="633dcebd80386500074a2461" lang="pt" xmltv_id="FilmelierTV.us@BR">Filmelier TV</channel>
