@@ -8,11 +8,11 @@ Pluto TV (33 Canais)
 https://github.com/lls-ws/epg/blob/master/sites/pluto.tv/pluto.tv_br.channels.xml
 
 TOTAL CANAIS ATIVOS.: 91
-TOTAL CANAIS EPG....: 65
+TOTAL CANAIS EPG....: 66
 ========================
-TOTAL CANAIS SEM EPG: 26
+TOTAL CANAIS SEM EPG: 25
 
-Lista dos 26 canais sem EPG
+Lista dos 25 canais sem EPG
 
 • LG (5 canais).
 	• 897 Xumo Filmes Grátis
