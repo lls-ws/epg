@@ -7,10 +7,10 @@ https://github.com/lls-ws/epg/blob/master/sites/plex.tv/plex.tv_br.channels.xml
 Pluto TV (33 Canais)
 https://github.com/lls-ws/epg/blob/master/sites/pluto.tv/pluto.tv_br.channels.xml
 
-TOTAL CANAIS ATIVOS.: 92
-TOTAL CANAIS EPG....: 57
+TOTAL CANAIS ATIVOS.: 91
+TOTAL CANAIS EPG....: 65
 ========================
-TOTAL CANAIS SEM EPG: 35
+TOTAL CANAIS SEM EPG: 26
 
 Lista dos 26 canais sem EPG
 
@@ -42,7 +42,6 @@ Lista dos 26 canais sem EPG
 	• 2670 Adrenalina Pura TV Halloween (BR) (Substituto TCL)
 	• 2697 Film Plus TV (BR)
 	• 2710 Filmelier Esperanca (BR)
-	• 2712 Vida Real (BR)
 	• 2725 Sony One Cinema (BR)
 • TCL (1 canal).
 	• 1025 Made in Hollywood (BR)
