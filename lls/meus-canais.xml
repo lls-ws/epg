@@ -8,15 +8,15 @@
 
   <!-- 10 Canais via Mi TV (https://github.com/lls-ws/epg/blob/master/sites/mi.tv/mi.tv_br.channels.xml) -->
   <channel site="mi.tv" site_id="br#a-e" lang="pt" xmltv_id="AELatinAmerica.us@Brazil">A&amp;E</channel>
-  <channel site="mi.tv" site_id="br#amc-brasil" lang="pt" xmltv_id="AMCLatinAmerica.us@Brazil">AMC</channel>
+  <channel site="mi.tv" site_id="br#amc-hd" lang="pt" xmltv_id="AMCLatinAmerica.us@Brazil">AMC HD</channel>
   <channel site="mi.tv" site_id="br#axn" lang="pt" xmltv_id="AXN.br@SD">AXN</channel>
   <channel site="mi.tv" site_id="br#sony" lang="pt" xmltv_id="SonyChannel.br@SD">Sony</channel>
   <channel site="mi.tv" site_id="br#studio-universal" lang="pt" xmltv_id="StudioUniversalLatinAmerica.us@Brazil">Studio Universal</channel>
   <channel site="mi.tv" site_id="br#telecine-action" lang="pt" xmltv_id="TelecineAction.br@SD">Telecine Action</channel>
   <channel site="mi.tv" site_id="br#telecine-cult" lang="pt" xmltv_id="TelecineCult.br@SD">Telecine Cult</channel>
+  <channel site="mi.tv" site_id="br#telecine-fun" lang="pt" xmltv_id="TelecineFun.br@SD">Telecine Fun</channel>
   <channel site="mi.tv" site_id="br#telecine-premium" lang="pt" xmltv_id="TelecinePremium.br@SD">Telecine Premium</channel>
   <channel site="mi.tv" site_id="br#telecine-touch" lang="pt" xmltv_id="TelecineTouch.br@SD">Telecine Touch</channel>
-  <channel site="mi.tv" site_id="br#tnt" lang="pt" xmltv_id="TNTLatinAmerica.us@Brazil">TNT</channel>
 
   <!-- 14 Canais via Plex TV (https://github.com/lls-ws/epg/blob/master/sites/plex.tv/plex.tv_br.channels.xml) -->
   <channel site="plex.tv" site_id="6685ad945ffde3f71a3977d5" lang="pt" xmltv_id="CindieTV.br@BR">Cindie TV</channel>
