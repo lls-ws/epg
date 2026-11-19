@@ -10,24 +10,19 @@
 | Descrição | Total |
 | :-- | --: |
 | **Total de canais:** | 88 canais |
-| **Total com EPG** | 62 canais |
-| **Total sem EPG** | 26 canais |
+| **Total com EPG** | 60 canais |
+| **Total sem EPG** | 28 canais |
 | **Total sem Logo** | 0 canais |
 
 ---
 #### Nota:
-* 60 no `channels.xml` + 2 canais da IPTV-org guia externo: `SOU TV` e `TV Series (480p)`
 * 70 canais de Filmes
 * 18 Canais de Séries
 ---
 
 ## Lista dos 26 Canais sem EPG
 
-### IPTV-org (1 canal)
-* ISTV (Brazil) (720p) [Not 24/7]
-
 ### LG (5 canais)
-* `897` Xumo Filmes Grátis
 * `899` American Classics
 * `900` Dark Matter TV Brazil
 * `925` Filmelier TV Vida Real
