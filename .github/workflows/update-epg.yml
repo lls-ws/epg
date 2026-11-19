@@ -28,7 +28,6 @@ jobs:
         run: |
           mkdir -p lls
           npm run grab --- --channels=lls/channels.xml --output=guide.xml --days=2 --maxConnections=2 --gzip | tee lls/update-epg.log
-          gunzip -kf guide.xml.gz
 
       - name: Publish EPG files and log
         run: |
