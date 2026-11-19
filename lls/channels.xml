@@ -16,6 +16,7 @@
   <channel site="mi.tv" site_id="br#a-e" lang="pt" xmltv_id="AELatinAmerica.us@Brazil">A&amp;E</channel>
   <channel site="mi.tv" site_id="br#amc-hd" lang="pt" xmltv_id="AMCLatinAmerica.us@Brazil">AMC HD</channel>
   <channel site="mi.tv" site_id="br#axn" lang="pt" xmltv_id="AXN.br@SD">AXN</channel>
+  <channel site="mi.tv" site_id="br#istv" lang="pt" xmltv_id="ISTV.br@SD">ISTV</channel>
   <channel site="mi.tv" site_id="br#sony" lang="pt" xmltv_id="SonyChannel.br@SD">Sony</channel>
   <channel site="mi.tv" site_id="br#studio-universal" lang="pt" xmltv_id="StudioUniversalLatinAmerica.us@Brazil">Studio Universal</channel>
   <channel site="mi.tv" site_id="br#telecine-action" lang="pt" xmltv_id="TelecineAction.br@SD">Telecine Action</channel>
@@ -43,10 +44,14 @@
   <channel site="plex.tv" site_id="6623c1a2ed4918437ed56ebd" lang="pt" xmltv_id="FilmelierTVPaixao.br@BR">Filmelier TV Paixão</channel>
   <channel site="plex.tv" site_id="6683e069cd6f1d3940941141" lang="pt" xmltv_id="DarkMatterTV.br@BR">Dark Matter TV Brazil</channel>
   <channel site="plex.tv" site_id="6477815622296e179f3c3362" lang="en" xmltv_id="RomanceChannel.us@SD">Romance Channel</channel>
+  <channel site="plex.tv" site_id="63b5a7c0b7a8c900073a48e1" lang="en" xmltv_id="AmericanClassics.us@SD">American Classics</channel>
+  <channel site="plex.tv" site_id="63b5a812b7a8c900073a48e3" lang="en" xmltv_id="XumoFreeMovies.us@SD">Xumo Filmes Grátis</channel>
+  <channel site="plex.tv" site_id="64123a908b902f00081c45b2" lang="en" xmltv_id="Andromeda.us@SD">Andromeda</channel>
 
   <!-- 33 Canais via Pluto TV -->
   <channel site="pluto.tv" site_id="61b790b985706b00072cb797" lang="pt" xmltv_id="AdrenalinaPuraTV.us@Brazil">Adrenalina Pura TV</channel>
   <channel site="pluto.tv" site_id="63eb9c5351f5d000085e8d7e" lang="pt" xmltv_id="CSIMiami.us@BR">CSI: Miami</channel>
+  <channel site="pluto.tv" site_id="62f54c6439183b000769fb8f" lang="pt" xmltv_id="CSINY.us@BR">CSI: NY</channel>
   <channel site="pluto.tv" site_id="633dcebd80386500074a2461" lang="pt" xmltv_id="FilmelierTV.us@BR">Filmelier TV</channel>
   <channel site="pluto.tv" site_id="5f171d3442a0500007362f22" lang="pt" xmltv_id="FilmesSuspense.us@Brazil">Filmes Suspense</channel>
   <channel site="pluto.tv" site_id="69162ad79505d0f3b1ebf07d" lang="pt" xmltv_id="JornadanasEstrelasANovaGeracao.us@BR">Jornada nas Estrelas - A Nova Geração</channel>
