@@ -1,3 +1,5 @@
+**⚙️ Manutenção** [Painel de Controle](https://github.com/lls-ws/lls-ws.github.io/tree/main/iptv/README.md#painel)
+
 # Balanço Final da Lista (LLS_TV.m3u)
 
 * **Total de canais ativos:** 91 canais publicados na `LLS_TV.m3u`
@@ -44,5 +46,3 @@
 
 ### TCL (1 canal)
 * `1025` Made in Hollywood (BR)
-
-**⚙️ Manutenção** [Painel de Controle](https://github.com/lls-ws/lls-ws.github.io/tree/main/iptv/README.md#painel)
