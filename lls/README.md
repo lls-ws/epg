@@ -15,8 +15,8 @@
 
 ---
 #### Nota:
-* **67** canais de **Filmes**
-* **13** canais de **Séries**
+* **68** canais de **Filmes**
+* **12** canais de **Séries**
 ---
 
 ## Lista dos 23 Canais sem EPG
