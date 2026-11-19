@@ -6,10 +6,10 @@
   <channel site="watch.whaletvplus.com" site_id="643123131363958663" lang="en" xmltv_id="MovieMania.us@BR">Movie Mania (EN)</channel>
   <channel site="watch.whaletvplus.com" site_id="1022125030546936778" lang="en" xmltv_id="ScifiWorld.us@BR">Scifi World</channel>
 
-  <!-- 5 Canais via Matt Huisman (i.mjh.nz) -->
+  <!-- 1 Canal via Matt Huisman (i.mjh.nz) -->
   <channel site="i.mjh.nz" site_id="PlutoTV/br#63eb9fdda995710008991c54" lang="pt" xmltv_id="NCIS.us@BR">NCIS</channel>  
 
-  <!-- 11 Canais via Mi TV (mi.tv) -->
+  <!-- 10 Canais via Mi TV (mi.tv) -->
   <channel site="mi.tv" site_id="br#a-e" lang="pt" xmltv_id="AELatinAmerica.us@Brazil">A&amp;E</channel>
   <channel site="mi.tv" site_id="br#amc-hd" lang="pt" xmltv_id="AMCLatinAmerica.us@Brazil">AMC HD</channel>
   <channel site="mi.tv" site_id="br#axn" lang="pt" xmltv_id="AXN.br@SD">AXN</channel>
@@ -21,7 +21,7 @@
   <channel site="mi.tv" site_id="br#telecine-premium" lang="pt" xmltv_id="TelecinePremium.br@SD">Telecine Premium</channel>
   <channel site="mi.tv" site_id="br#telecine-touch" lang="pt" xmltv_id="TelecineTouch.br@SD">Telecine Touch</channel>
 
-  <!-- 15 Canais via Plex TV (plex.tv) -->
+  <!-- 14 Canais via Plex TV (plex.tv) -->
   <channel site="plex.tv" site_id="6685ad945ffde3f71a3977d5" lang="pt" xmltv_id="CindieTV.br@BR">Cindie TV</channel>
   <channel site="plex.tv" site_id="6683faa4cd6f1d394094114b" lang="pt" xmltv_id="CinEspanto.br@BR">CinEspanto</channel>
   <channel site="plex.tv" site_id="65e9d0ad8fe4ef7053c3c86c" lang="pt" xmltv_id="FilmRiseSeriesGratuitas.br@BR">FilmRise Series Gratuitas</channel>
