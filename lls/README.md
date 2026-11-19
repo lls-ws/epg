@@ -8,14 +8,25 @@
 # Balanço Final da Lista (LLS_TV.m3u)
 
 * **Total de canais ativos:** 88 canais publicados na `LLS_TV.m3u`
-* **Total com EPG ativo:** 76 canais (74 no `channels.xml` + 2 canais da IPTV-org com guia externo da própria fonte: `SOU TV` e `TV Series (480p)`)
-* **Total sem EPG:** 12 canais (canais independentes de Movieark, Olhosnatv e Redeitv sem guia público)
+* **Total com EPG ativo:** 63 canais (61 no `channels.xml` + 2 canais da IPTV-org com guia externo da própria fonte: `SOU TV` e `TV Series (480p)`)
+* **Total sem EPG:** 25 canais (canais independentes de Movieark, Olhosnatv, Redeitv e canais FAST sem guia público)
 
 ---
 
-## Lista dos 12 Canais sem EPG
+## Lista dos 25 Canais sem EPG
 
-### Movieark (7 canais)
+### IPTV-org (1 canal)
+* ISTV (Brazil) (720p) [Not 24/7]
+
+### LG (5 canais)
+* `897` Xumo Filmes Grátis
+* `899` American Classics
+* `900` Dark Matter TV Brazil
+* `925` Filmelier TV Vida Real
+* `927` Filmelier TV Paixão
+
+### Movieark (9 canais)
+* Andromeda
 * Ação Total TV
 * Booh!
 * Cine Familia
@@ -23,6 +34,7 @@
 * Film Plus Emotion
 * Film Plus Family
 * Medo TV
+* Romance Channel
 
 ### Olhosnatv (3 canais)
 * CLASSIQUE TV
@@ -32,3 +44,10 @@
 ### Redeitv (2 canais)
 * Séries Classic
 * TOP MIX TV CANAL 4 FILMES
+
+### SamsungTVPlus (5 canais)
+* `2565` Sony One - Emoções (BR)
+* `2670` Adrenalina Pura TV Halloween (BR) *(Substituto TCL)*
+* `2697` Film Plus TV (BR)
+* `2710` Filmelier Esperanca (BR)
+* `2725` Sony One Cinema (BR)
