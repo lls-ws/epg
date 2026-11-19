@@ -8,12 +8,12 @@
 # Balanço Final da Lista (LLS_TV.m3u)
 
 * **Total de canais ativos:** 88 canais publicados na `LLS_TV.m3u`
-* **Total com EPG ativo:** 63 canais (61 no `channels.xml` + 2 canais da IPTV-org com guia externo da própria fonte: `SOU TV` e `TV Series (480p)`)
-* **Total sem EPG:** 25 canais (canais independentes de Movieark, Olhosnatv, Redeitv e canais FAST sem guia público)
+* **Total com EPG ativo:** 62 canais (60 no `channels.xml` + 2 canais da IPTV-org com guia externo da própria fonte: `SOU TV` e `TV Series (480p)`)
+* **Total sem EPG:** 26 canais (canais independentes de Movieark, Olhosnatv, Redeitv e canais FAST sem guia público)
 
 ---
 
-## Lista dos 25 Canais sem EPG
+## Lista dos 26 Canais sem EPG
 
 ### IPTV-org (1 canal)
 * ISTV (Brazil) (720p) [Not 24/7]
@@ -51,3 +51,6 @@
 * `2697` Film Plus TV (BR)
 * `2710` Filmelier Esperanca (BR)
 * `2725` Sony One Cinema (BR)
+
+### WhaleTVPlus (1 canal)
+* Scifi World
