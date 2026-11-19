@@ -12,12 +12,11 @@
 | **Total de canais:** | 80 canais |
 | **Total com EPG** | 57 canais |
 | **Total sem EPG** | 23 canais |
-| **Total sem Logo** | 0 canais |
 
 ---
 #### Nota:
-* 67 canais de Filmes
-* 13 Canais de Séries
+* **67** canais de **Filmes**
+* **13** canais de **Séries**
 ---
 
 ## Lista dos 24 Canais sem EPG
