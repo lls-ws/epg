@@ -15,7 +15,10 @@
 | **Total sem Logo** | 0 canais |
 
 ---
-#### Nota: 60 no `channels.xml` + 2 canais da IPTV-org guia externo: `SOU TV` e `TV Series (480p)`
+#### Nota:
+* 60 no `channels.xml` + 2 canais da IPTV-org guia externo: `SOU TV` e `TV Series (480p)`
+* 70 canais de Filmes
+* 18 Canais de Séries
 ---
 
 ## Lista dos 26 Canais sem EPG
