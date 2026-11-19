@@ -44,3 +44,5 @@
 
 ### TCL (1 canal)
 * `1025` Made in Hollywood (BR)
+
+**⚙️ Manutenção** [Painel de Controle](iptv/README.md#painel)
