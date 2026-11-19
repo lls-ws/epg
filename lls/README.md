@@ -7,8 +7,8 @@
 
 # Balanço Final da Lista (LLS_TV.m3u)
 
-* **Total de canais ativos:** 87 canais publicados na `LLS_TV.m3u`
-* **Total com EPG ativo:** 75 canais (73 no `channels.xml` + 2 canais da IPTV-org com guia externo da própria fonte: `SOU TV` e `TV Series (480p)`)
+* **Total de canais ativos:** 88 canais publicados na `LLS_TV.m3u`
+* **Total com EPG ativo:** 76 canais (74 no `channels.xml` + 2 canais da IPTV-org com guia externo da própria fonte: `SOU TV` e `TV Series (480p)`)
 * **Total sem EPG:** 12 canais (canais independentes de Movieark, Olhosnatv e Redeitv sem guia público)
 
 ---
