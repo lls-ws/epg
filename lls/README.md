@@ -9,9 +9,9 @@
 
 | Descrição | Total |
 | :-- | --: |
-| **Total de canais:** | 80 canais |
-| **Total com EPG** | 57 canais |
-| **Total sem EPG** | 23 canais |
+| **Total de canais:** | **80** canais |
+| **Total com EPG** | **57** canais |
+| **Total sem EPG** | **23** canais |
 
 ---
 #### Nota:
