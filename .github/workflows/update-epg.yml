@@ -24,17 +24,10 @@ jobs:
       - name: Install dependencies
         run: npm install --no-audit --no-fund --loglevel=error
 
-      - name: Add rate-limit delay for Whale TV Plus
-        run: |
-          sed -i "s/site: 'watch.whaletvplus.com',/site: 'watch.whaletvplus.com',\n  delay: 3000,/g" sites/watch.whaletvplus.com/watch.whaletvplus.com.config.js
-
       - name: Grab EPG and save log
         run: |
           mkdir -p lls
-          npm run grab --- --channels=lls/channels.xml --output=guide.xml --days=3 --maxConnections=1 --gzip | tee lls/update-epg.log
-
-      - name: Restore modified config file
-        run: git checkout -- sites/watch.whaletvplus.com/watch.whaletvplus.com.config.js
+          npm run grab --- --channels=lls/channels.xml --output=guide.xml --days=3 --maxConnections=2 --gzip | tee lls/update-epg.log
 
       - name: Publish guide.xml.gz and log
         run: |
