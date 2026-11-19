@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <!-- 4 Canais via Whale TV Plus (://whaletvplus.com) -->
-  <channel site="://whaletvplus.com" site_id="979187723418476860" lang="en" xmltv_id="AZClassicFlix.us@BR">a-z Classic Flix</channel>
-  <channel site="://whaletvplus.com" site_id="609411515976060398" lang="en" xmltv_id="Filmzie.us@BR">Filmzie</channel>
-  <channel site="://whaletvplus.com" site_id="643123131363958663" lang="en" xmltv_id="MovieMania.us@BR">Movie Mania (EN)</channel>
-  <channel site="://whaletvplus.com" site_id="1022125030546936778" lang="en" xmltv_id="ScifiWorld.us@BR">Scifi World</channel>
+  <channel site="watch.whaletvplus.com" site_id="979187723418476860" lang="en" xmltv_id="AZClassicFlix.us@BR">a-z Classic Flix</channel>
+  <channel site="watch.whaletvplus.com" site_id="609411515976060398" lang="en" xmltv_id="Filmzie.us@BR">Filmzie</channel>
+  <channel site="watch.whaletvplus.com" site_id="643123131363958663" lang="en" xmltv_id="MovieMania.us@BR">Movie Mania (EN)</channel>
+  <channel site="watch.whaletvplus.com" site_id="1022125030546936778" lang="en" xmltv_id="ScifiWorld.us@BR">Scifi World</channel>
 
   <!-- 5 Canais via Matt Huisman (i.mjh.nz) -->
   <channel site="i.mjh.nz" site_id="SamsungTVPlus/br#BRBA3300001I6" lang="pt" xmltv_id="AdrenalinaPuraTVHalloween.br@BR">Adrenalina Pura TV Halloween</channel>
@@ -82,4 +82,5 @@
   <channel site="pluto.tv" site_id="6474ab5cdc7a760008745008" lang="pt" xmltv_id="PlutoTVSeriesCriminais.us@BR">Pluto TV Séries Criminais</channel>
   <channel site="pluto.tv" site_id="65f060d84e01740008d7421f" lang="pt" xmltv_id="PlutoTVSeriesDrama.us@BR">Pluto TV Séries Drama</channel>
   <channel site="pluto.tv" site_id="63d2ba2f60bc8f0008981a0e" lang="pt" xmltv_id="PlutoTVSeriesSciFi.us@BR">Pluto TV Séries Sci-Fi</channel>
+  <channel site="pluto.tv" site_id="66aa67493a4ad2000806d91b" lang="pt" xmltv_id="PlutoTVTerrorTrash.us@BR">Pluto TV Terror Trash</channel>
 </channels>
