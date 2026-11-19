@@ -9,27 +9,26 @@
 
 | Descrição | Total |
 | :-- | --: |
-| **Total de canais:** | 84 canais |
-| **Total com EPG** | 60 canais |
-| **Total sem EPG** | 24 canais |
+| **Total de canais:** | 80 canais |
+| **Total com EPG** | 57 canais |
+| **Total sem EPG** | 23 canais |
 | **Total sem Logo** | 0 canais |
 
 ---
 #### Nota:
 * 67 canais de Filmes
-* 17 Canais de Séries
+* 13 Canais de Séries
 ---
 
 ## Lista dos 24 Canais sem EPG
 
-### LG (5 canais)
+### LG (4 canais)
 * `899` American Classics
 * `900` Dark Matter TV Brazil
 * `925` Filmelier TV Vida Real
 * `927` Filmelier TV Paixão
 
-### Movieark (9 canais)
-* Andromeda
+### Movieark (8 canais)
 * Ação Total TV
 * Booh!
 * Cine Familia
