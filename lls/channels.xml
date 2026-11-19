@@ -33,6 +33,10 @@
   <channel site="plex.tv" site_id="6683f50ccd6f1d3940941145" lang="pt" xmltv_id="RuntimeRomance.es@SD">Runtime Romance</channel>
   <channel site="plex.tv" site_id="6864668119cc2e163e38d167" lang="pt" xmltv_id="SessaoTrash.br@BR">Sessão Trash</channel>
   <channel site="plex.tv" site_id="6623c114ed4918437ed56ebc" lang="pt" xmltv_id="SparkTVLuzyAmor.br@BR">Spark TV Luz y Amor</channel>
+  <channel site="plex.tv" site_id="6623c233ed4918437ed56ebe" lang="pt" xmltv_id="FilmelierTVEsperanca.br@BR">Filmelier TV Esperança</channel>
+  <channel site="plex.tv" site_id="6623c1a2ed4918437ed56ebd" lang="pt" xmltv_id="FilmelierTVPaixao.br@BR">Filmelier TV Paixão</channel>
+  <channel site="plex.tv" site_id="6683e069cd6f1d3940941141" lang="pt" xmltv_id="DarkMatterTV.br@BR">Dark Matter TV Brazil</channel>
+  <channel site="plex.tv" site_id="6477815622296e179f3c3362" lang="en" xmltv_id="RomanceChannel.us@SD">Romance Channel</channel>
 
   <!-- 33 Canais via Pluto TV (https://github.com/lls-ws/epg/blob/master/sites/pluto.tv/pluto.tv_br.channels.xml) -->
   <channel site="pluto.tv" site_id="61b790b985706b00072cb797" lang="pt" xmltv_id="AdrenalinaPuraTV.us@Brazil">Adrenalina Pura TV</channel>
