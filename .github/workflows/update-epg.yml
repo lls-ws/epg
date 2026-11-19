@@ -27,7 +27,7 @@ jobs:
       - name: Grab EPG and save log
         run: |
           mkdir -p lls
-          npm run grab --- --channels=lls/channels.xml --output=guide.xml --days=3 --maxConnections=2 --gzip | tee lls/update-epg.log
+          npm run grab --- --channels=lls/channels.xml --output=guide.xml --days=3 --maxConnections=2 --delay=2000 --gzip | tee lls/update-epg.log
 
       - name: Publish guide.xml.gz and log
         run: |
