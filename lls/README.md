@@ -9,18 +9,18 @@
 
 | Descrição | Total |
 | :-- | --: |
-| **Total de canais:** | 88 canais |
+| **Total de canais:** | 84 canais |
 | **Total com EPG** | 60 canais |
-| **Total sem EPG** | 28 canais |
+| **Total sem EPG** | 24 canais |
 | **Total sem Logo** | 0 canais |
 
 ---
 #### Nota:
-* 70 canais de Filmes
-* 18 Canais de Séries
+* 67 canais de Filmes
+* 17 Canais de Séries
 ---
 
-## Lista dos 26 Canais sem EPG
+## Lista dos 24 Canais sem EPG
 
 ### LG (5 canais)
 * `899` American Classics
