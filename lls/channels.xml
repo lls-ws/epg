@@ -7,17 +7,12 @@
   <channel site="watch.whaletvplus.com" site_id="1022125030546936778" lang="en" xmltv_id="ScifiWorld.us@BR">Scifi World</channel>
 
   <!-- 5 Canais via Matt Huisman (i.mjh.nz) -->
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/br#BRBA3300001I6" lang="pt" xmltv_id="AdrenalinaPuraTVHalloween.br@BR">Adrenalina Pura TV Halloween</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/br#BRBA33000039R" lang="pt" xmltv_id="FilmPlusTV.br@BR">Film Plus TV</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/br#63eb9fdda995710008991c54" lang="pt" xmltv_id="NCIS.us@BR">NCIS</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/br#BRBA33000050P" lang="pt" xmltv_id="SonyOneCinema.br@BR">Sony One Cinema</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/br#BRBA33000062M" lang="pt" xmltv_id="SonyOneEmocoes.br@BR">Sony One Emoções</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/br#63eb9fdda995710008991c54" lang="pt" xmltv_id="NCIS.us@BR">NCIS</channel>  
 
   <!-- 11 Canais via Mi TV (mi.tv) -->
   <channel site="mi.tv" site_id="br#a-e" lang="pt" xmltv_id="AELatinAmerica.us@Brazil">A&amp;E</channel>
   <channel site="mi.tv" site_id="br#amc-hd" lang="pt" xmltv_id="AMCLatinAmerica.us@Brazil">AMC HD</channel>
   <channel site="mi.tv" site_id="br#axn" lang="pt" xmltv_id="AXN.br@SD">AXN</channel>
-  <channel site="mi.tv" site_id="br#istv" lang="pt" xmltv_id="ISTV.br@SD">ISTV</channel>
   <channel site="mi.tv" site_id="br#sony" lang="pt" xmltv_id="SonyChannel.br@SD">Sony</channel>
   <channel site="mi.tv" site_id="br#studio-universal" lang="pt" xmltv_id="StudioUniversalLatinAmerica.us@Brazil">Studio Universal</channel>
   <channel site="mi.tv" site_id="br#telecine-action" lang="pt" xmltv_id="TelecineAction.br@SD">Telecine Action</channel>
@@ -26,20 +21,13 @@
   <channel site="mi.tv" site_id="br#telecine-premium" lang="pt" xmltv_id="TelecinePremium.br@SD">Telecine Premium</channel>
   <channel site="mi.tv" site_id="br#telecine-touch" lang="pt" xmltv_id="TelecineTouch.br@SD">Telecine Touch</channel>
 
-  <!-- 22 Canais via Plex TV (plex.tv) -->
-  <channel site="plex.tv" site_id="63b5a7c0b7a8c900073a48e1" lang="en" xmltv_id="AmericanClassics.us@SD">American Classics</channel>
-  <channel site="plex.tv" site_id="64123a908b902f00081c45b2" lang="en" xmltv_id="Andromeda.us@SD">Andromeda</channel>
+  <!-- 15 Canais via Plex TV (plex.tv) -->
   <channel site="plex.tv" site_id="6685ad945ffde3f71a3977d5" lang="pt" xmltv_id="CindieTV.br@BR">Cindie TV</channel>
   <channel site="plex.tv" site_id="6683faa4cd6f1d394094114b" lang="pt" xmltv_id="CinEspanto.br@BR">CinEspanto</channel>
-  <channel site="plex.tv" site_id="6683e069cd6f1d3940941141" lang="pt" xmltv_id="DarkMatterTV.br@BR">Dark Matter TV Brazil</channel>
-  <channel site="plex.tv" site_id="6623c233ed4918437ed56ebe" lang="pt" xmltv_id="FilmelierTVEsperanca.br@BR">Filmelier TV Esperança</channel>
-  <channel site="plex.tv" site_id="6623c1a2ed4918437ed56ebd" lang="pt" xmltv_id="FilmelierTVPaixao.br@BR">Filmelier TV Paixão</channel>
-  <channel site="plex.tv" site_id="6623c2c4ed4918437ed56ebf" lang="pt" xmltv_id="FilmelierTVVidaReal.br@BR">Filmelier TV Vida Real</channel>
   <channel site="plex.tv" site_id="65e9d0ad8fe4ef7053c3c86c" lang="pt" xmltv_id="FilmRiseSeriesGratuitas.br@BR">FilmRise Series Gratuitas</channel>
   <channel site="plex.tv" site_id="63489bc190b96ef5e0eb327c" lang="pt" xmltv_id="GrjngoFilmesDeFaroeste.br@BR">Grjngo - Filmes De Faroeste</channel>
   <channel site="plex.tv" site_id="6623c836ed4918437ed56ec2" lang="pt" xmltv_id="MovieSphere.us@BR">MOVIESPHERE</channel>
   <channel site="plex.tv" site_id="644874236e1dc0bf5664a674" lang="pt" xmltv_id="MyTimeMovieNetwork.br@SD">MyTime Movie Network</channel>
-  <channel site="plex.tv" site_id="6477815622296e179f3c3362" lang="en" xmltv_id="RomanceChannel.us@SD">Romance Channel</channel>
   <channel site="plex.tv" site_id="66998d1f7888888799f31d27" lang="pt" xmltv_id="Runtime.us@SD">Runtime</channel>
   <channel site="plex.tv" site_id="6683f942cd6f1d3940941149" lang="pt" xmltv_id="RuntimeAcao.br@BR">Runtime Ação</channel>
   <channel site="plex.tv" site_id="6683f82dcd6f1d3940941147" lang="pt" xmltv_id="RuntimeComedia.br@BR">Runtime Comédia</channel>
@@ -48,7 +36,6 @@
   <channel site="plex.tv" site_id="6683f50ccd6f1d3940941145" lang="pt" xmltv_id="RuntimeRomance.es@SD">Runtime Romance</channel>
   <channel site="plex.tv" site_id="6864668119cc2e163e38d167" lang="pt" xmltv_id="SessaoTrash.br@BR">Sessão Trash</channel>
   <channel site="plex.tv" site_id="6623c114ed4918437ed56ebc" lang="pt" xmltv_id="SparkTVLuzyAmor.br@BR">Spark TV Luz y Amor</channel>
-  <channel site="plex.tv" site_id="63b5a812b7a8c900073a48e3" lang="en" xmltv_id="XumoFreeMovies.us@SD">Xumo Filmes Grátis</channel>
 
   <!-- 32 Canais via Pluto TV (pluto.tv) -->
   <channel site="pluto.tv" site_id="61b790b985706b00072cb797" lang="pt" xmltv_id="AdrenalinaPuraTV.us@Brazil">Adrenalina Pura TV</channel>
