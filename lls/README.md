@@ -19,7 +19,7 @@
 * **13** canais de **Séries**
 ---
 
-## Lista dos 24 Canais sem EPG
+## Lista dos 23 Canais sem EPG
 
 ### LG (4 canais)
 * `899` American Classics
