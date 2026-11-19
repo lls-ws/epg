@@ -7,10 +7,15 @@
 
 # Balanço Final da Lista (LLS_TV.m3u)
 
-* **Total de canais ativos:** 88 canais publicados na `LLS_TV.m3u`
-* **Total com EPG ativo:** 62 canais (60 no `channels.xml` + 2 canais da IPTV-org com guia externo da própria fonte: `SOU TV` e `TV Series (480p)`)
-* **Total sem EPG:** 26 canais (canais independentes)
+| Descrição | Total |
+| :-- | --: |
+| **Total de canais:** | 88 canais |
+| **Total com EPG** | 62 canais |
+| **Total sem EPG** | 26 canais |
+| **Total sem Logo** | 0 canais |
 
+---
+#### Nota: 60 no `channels.xml` + 2 canais da IPTV-org guia externo: `SOU TV` e `TV Series (480p)`
 ---
 
 ## Lista dos 26 Canais sem EPG
