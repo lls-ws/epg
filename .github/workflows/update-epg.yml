@@ -29,11 +29,23 @@ jobs:
           mkdir -p lls
           npm run grab --- --channels=lls/channels.xml --output=guide.xml --days=2 --maxConnections=2 --gzip | tee lls/update-epg.log
 
-      - name: Publish EPG files and log
+      - name: Publish EPG files and log to epg repo
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -f guide.xml guide.xml.gz
           git add lls/update-epg.log
           git commit -m "Update guide.xml, guide.xml.gz and execution log" || exit 0
+          git push
+
+      - name: Publish EPG files to lls-ws.github.io
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_PAGES_TOKEN }}@://github.com pages-repo
+          mkdir -p pages-repo/iptv
+          cp guide.xml guide.xml.gz pages-repo/iptv/
+          cd pages-repo
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add iptv/guide.xml iptv/guide.xml.gz
+          git commit -m "Update EPG guide.xml and guide.xml.gz" || exit 0
           git push
