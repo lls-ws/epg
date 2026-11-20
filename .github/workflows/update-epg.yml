@@ -38,9 +38,15 @@ jobs:
           git commit -m "Update guide.xml, guide.xml.gz and execution log" || exit 0
           git push
 
+      - name: Checkout lls-ws.github.io
+        uses: actions/checkout@v4
+        with:
+          repository: lls-ws/lls-ws.github.io
+          token: ${{ secrets.GH_PAGES_TOKEN }}
+          path: pages-repo
+
       - name: Publish EPG files to lls-ws.github.io
         run: |
-          git clone https://x-access-token:${{ secrets.GH_PAGES_TOKEN }}@://github.com pages-repo
           mkdir -p pages-repo/iptv
           cp guide.xml guide.xml.gz pages-repo/iptv/
           cd pages-repo
